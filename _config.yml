@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/rideau2.jpg"
+background-img: "../img/falls.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -56,10 +56,11 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Ambitious, Methodical and Reliable"
+  - text: "Personal Website for Adrian Ramcharitar"
 
-me-img: "/img/adrian.jpg"
+
+me-img: "/img/adrianiotitle.png"
 
 ################
 # Web app mode #
