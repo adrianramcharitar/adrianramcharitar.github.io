@@ -32,7 +32,7 @@ lang: "en"
 author: "Adrian Ramcharitar"
 title: "{ Adrian Ramcharitar }"
 description: "Personal Websiite for myself"
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "ramcharitar, adrian, personal, porfolio, coding"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
@@ -40,7 +40,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/ico3.ico"
+black-favicon: "/img/icotest.png"
 
 background-img: "../img/rideau.jpg"
 
