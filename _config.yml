@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/icotest.png"
 
-background-img: "../img/rideau.jpg"
+background-img: "../img/rideaubw.jpeg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Personal Website for Adrian Ramcharitar"
 
 
-me-img: "/img/adrianiotitle.png"
+me-img: "/img/adrian3.jpg"
 
 ################
 # Web app mode #
