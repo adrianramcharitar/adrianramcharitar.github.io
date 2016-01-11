@@ -107,15 +107,15 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/uottawa.png"
     date: "Summer 2015"
-    description: "Researcher at UOttawa | DISCOVER Virtual Environment Laboratory"
+    description: "Researcher at UOttawa - DISCOVER Virtual Environment Laboratory"
 
   - image: "/img/timeline/sigmachi.png"
     date: "Winter 2011 - Summer 2013"
-    description: "Webmaster Chair | Sigma Chi Fraternity"
+    description: "Webmaster Chair - Sigma Chi Fraternity"
 
   - image: "/img/timeline/coop.png"
     date: "Summer 2012 & Summer 2013"
-    description: "Bilingual PC/Lan Analyst | The Cooperators "
+    description: "Bilingual PC/Lan Analyst - The Cooperators"
 
 # First image of the Timeline
 
