@@ -40,7 +40,8 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/icotest.png"
+# black-favicon: "/img/icotest.png"
+black-favicon: "test!"
 
 background-img: "../img/rideaubw.jpeg"
 
@@ -165,7 +166,7 @@ pages_list:
   Projects: 'latest-post'
   Work Experience: 'timeline'
   Contact: 'contact'
-  Test: 'test'
+#  Test: 'test'
 
 # Exclusion list from the generated _site
 
