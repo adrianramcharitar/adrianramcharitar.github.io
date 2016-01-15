@@ -165,6 +165,7 @@ pages_list:
   Projects: 'latest-post'
   Work Experience: 'timeline'
   Contact: 'contact'
+  Test: 'test'
 
 # Exclusion list from the generated _site
 
