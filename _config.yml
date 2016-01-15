@@ -40,8 +40,8 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-# black-favicon: "/img/icotest.png"
-black-favicon: "test!"
+ black-favicon: "/img/code.ico"
+
 
 background-img: "../img/rideaubw.jpeg"
 
