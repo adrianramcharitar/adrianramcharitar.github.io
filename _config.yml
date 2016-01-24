@@ -61,7 +61,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Personal Website for Adrian Ramcharitar"
 
 
-me-img: "/img/logo_short.png"
+me-img: "/img/logo_short_2.png"
 
 ################
 # Web app mode #
@@ -110,13 +110,15 @@ events:
     date: "Summer 2015"
     description: "Researcher at UOttawa - DISCOVER Virtual Environment Laboratory"
 
+  - image: "/img/timeline/coop.png"
+    date: "Summer 2012 & Summer 2013"
+    description: "Bilingual PC/Lan Analyst - The Cooperators"
+
   - image: "/img/timeline/sigmachi.png"
     date: "Winter 2011 - Summer 2013"
     description: "Webmaster Chair - Sigma Chi Fraternity"
 
-  - image: "/img/timeline/coop.png"
-    date: "Summer 2012 & Summer 2013"
-    description: "Bilingual PC/Lan Analyst - The Cooperators"
+
 
 #comment
 # First image of the Timeline
