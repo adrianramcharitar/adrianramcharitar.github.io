@@ -106,7 +106,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/uottawa.png"
+  - image: "/img/timeline/uottawa_2.jpg"
     date: "Summer 2015"
     description: "Researcher at UOttawa - DISCOVER Virtual Environment Laboratory"
 
