@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Adrian Ramcharitar"
 title: "{ Adrian Ramcharitar }"
-description: "Personal Websiite for myself"
+description: "Personal Website for myself"
 keywords: "ramcharitar, adrian, personal, porfolio, coding"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
@@ -58,7 +58,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Ambitious | Methodical | Reliable"
-  - text: "Personal Website for Adrian Ramcharitar"
+  
 
 
 me-img: "/img/logo_short_2.png"
