@@ -10,8 +10,3 @@ Used the accelerometer sensors on a mobile phone as a controller for unity game 
 
 
 ![HTNVR](/img/htmvr.jpg){:class="img-responsive"}
-
-
-<p align="center">
-  <img width="460" height="300" src="/img/htmvr.jpg">
-</p>
