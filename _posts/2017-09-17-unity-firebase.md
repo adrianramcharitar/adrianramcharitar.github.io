@@ -10,7 +10,7 @@ Our team at Hack The North used the accelerometer sensors on a mobile phone as a
 
 Check out our project here:
 
-[a link](https://github.com/Mahesh-Ranaweera/firebase_unity_controller)
+[GitHub](https://github.com/Mahesh-Ranaweera/firebase_unity_controller)
 
 
 ![HTNVR](/img/htnvr.jpg){:class="img-responsive"}
