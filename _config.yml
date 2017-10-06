@@ -109,9 +109,9 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/uottawa_3.png"
-    date: "Summer 2015"
-    description: "Researcher at UOttawa - DISCOVER Virtual Environment Laboratory"
+  - image: "/img/timeline/carleton.png"
+    date: "Fall 2017"
+    description: "Researcher at Carleton University - Virtual Environment Laboratory"
 
   - image: "/img/timeline/coop.png"
     date: "Summer 2012 & Summer 2013"
